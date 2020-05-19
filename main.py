@@ -32,4 +32,4 @@ if __name__ == '__main__':
 
     train(config_dict)          # 训练
     print(test(config_dict))    # 测试
-    print(cut("不少人遇到打击和挫折时，怨恨生活不公平。", config_dict))     # 分词
+    print(cut("振奋精神有所作为", config_dict))     # 分词
